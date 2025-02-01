@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import logo from '../images/logo.png';
-import './signupCSS.css';
+import './SignupCSS.css';
 const SignupPage = () => {
   const [formData, setFormData] = useState({
     name: '',

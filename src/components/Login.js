@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import logo from '../images/logo.png';
-import './loginCSS.css';
+import './LoginCSS.css';
 
 const LoginPage = () => {
   const [formData, setFormData] = useState({
